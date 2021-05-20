@@ -1,0 +1,41 @@
+.navbar {
+  padding: 20px;
+  background-color: #8ff5a9;
+}
+
+.search {
+  display: flex;
+  justify-content: left;
+  margin: 0 20px;
+  padding: 20px 0;
+}
+
+.card {
+  display: flex;
+  justify-content: left;
+  margin: 0 20px;
+  padding: 20px 0;
+}
+
+.repo {
+  border: black;
+  justify-content: right;
+  overflow: hidden;
+}
+
+.wrapper {
+
+  border: 1px solid rgb(53, 43, 43);
+  border-radius: .75;
+}
+#title {
+  color: blue;
+  font-size: 15px;
+}
+
+.repository {
+  display: flex;
+  justify-content: right;
+  margin: 0 20px;
+  padding: 20px 0;
+}
